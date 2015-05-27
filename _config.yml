@@ -10,7 +10,7 @@ tagline:             'Developer. Artist'
 description:         'Home of Tanken. <a href="https://twitter.com/tanken90" target="_blank">@tanken90</a>.'
 url:                 http://tanken.github.io
 baseurl:             ''
-paginate:            5
+paginate:            2
 
 # About/contact
 author:
