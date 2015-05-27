@@ -1,7 +1,6 @@
 ---
 layout: post
 title: What's Jekyll?
-permalink: /:title
 comments: True
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Example content
-permalink: /:title
+comments: True
 ---
 
 
