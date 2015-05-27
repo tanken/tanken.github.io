@@ -1,3 +1,0 @@
-# tanken.github.io
-
-Homepage! :)
