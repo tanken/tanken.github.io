@@ -4,7 +4,7 @@
  <title>Tanken</title>
  <link href="http://tanken.github.io/atom.xml" rel="self"/>
  <link href="http://tanken.github.io/"/>
- <updated>2015-05-27T18:35:59+08:00</updated>
+ <updated>2015-05-27T19:00:28+08:00</updated>
  <id>http://tanken.github.io</id>
  <author>
    <name>Ken</name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>Introducing Lanyon</title>
-   <link href="http://tanken.github.io/introducing-lanyon"/>
+   <link href="http://tanken.github.io/introducing-lanyon/"/>
    <updated>2014-01-02T00:00:00+08:00</updated>
    <id>http://tanken.github.io/introducing-lanyon</id>
    <content type="html">&lt;p&gt;Lanyon is an unassuming &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that places content first by tucking away navigation in a hidden drawer. It’s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
